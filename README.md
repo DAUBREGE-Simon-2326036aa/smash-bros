@@ -8,8 +8,9 @@
 
 Le jeu met à disposition la totalité des personnages jouables des précédentes versions. En effet, les joueurs ont aussi bien accès à des personnages de la série comme : 
 * Mario
-* <span style="color: #26B260">Link</span>
+* Link
 * Pikachu
 
 que des personnages qui ne sont apparus qu'une seule fois dans celle-ci, à savoir Pichu et Link enfant de Super Smash Bros. Melee, ainsi que le Dresseur de Pokémon et Wolf de Super Smash Bros. Brawl. 
 ___
+![boule smash](https://freepngimg.com/download/graphic_design/94956-and-smash-leaf-for-3ds-brawl-symbol.png)

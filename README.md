@@ -13,4 +13,5 @@ Le jeu met à disposition la totalité des personnages jouables des précédente
 
 que des personnages qui ne sont apparus qu'une seule fois dans celle-ci, à savoir Pichu et Link enfant de Super Smash Bros. Melee, ainsi que le Dresseur de Pokémon et Wolf de Super Smash Bros. Brawl. 
 ___
-![boule smash](https://freepngimg.com/download/graphic_design/94956-and-smash-leaf-for-3ds-brawl-symbol.png)
+## Les bien faits du jeu 
+* Amélioration des compétences cognitives : ce jeu demande une grande reflexion est stratégie de combat pour prévoir les mouvements des ses adversaires et agir en conséquences

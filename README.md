@@ -14,7 +14,7 @@ Le jeu met à disposition la totalité des personnages jouables des précédente
 que des personnages qui ne sont apparus qu'une seule fois dans celle-ci, à savoir Pichu et Link enfant de Super Smash Bros. Melee, ainsi que le Dresseur de Pokémon et Wolf de Super Smash Bros. Brawl. 
 ___
 ## Les bien faits du jeu 
-1. **_Amélioration des compétences cognitives_** : ce jeu demande une grande reflexion est stratégie de combat pour prévoir les mouvements des ses adversaires et agir en conséquences.
+1. **_Amélioration des compétences cognitives_** : ce jeu demande une grande reflexion et grande stratégie de combat pour prévoir les mouvements des ses adversaires et agir en conséquences.
 2. **_Développement des compétences sociales_** : le jeu propose un mode en ligne ce qui permet aux joueurs de collaborer avec des gens du mondes entiers favorisant ainsi les compétences sociales.
 3. **_Gestion du stress et de l'anxiété_** : étant avant tout un jeu vidéo, il permet aux joueurs de "s'échapper" de la réalité ce qui peux aider à reduire le stress et l'anxiété au quotidien.
 4. **_Amélioration des réflexes et de la coordination_** : Le jeu Super Smash Bros. Ultimate, sollicitent les réflexes et la coordination main-œil. Cela peut être bénéfique pour les joueurs de tous âges.
